@@ -2,7 +2,8 @@
 <h2>2.1 - 2.3</h2>
 <h2>2.4 Модели данных</h2>
 <h3>Модель данных для файлика Superstore</h3>
-За основу хранилища данных взята модель Инмана по схеме "Звезда".
+За основу архитектуры БД взята модель Инмана по схеме "Звезда".
+<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/Dimensional_Model_of_Superstore.png">
 <br/>
 Разработано 5 таблиц измерений:
 <br/>
@@ -14,5 +15,6 @@
 <br/>
 Таблица фактов состоит из ключей вышеперечисленных 5 таблиц измерений + статистических данных (прибыль, скидка и пр.).
 <br/>
-<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/Dimensional_Model_of_Superstore.png">
+Файлик расположен здесь: https://github.com/Rasulo/DataLearn/blob/main/DE-101/Module2/create_DM_of_superstore.sql
+
 

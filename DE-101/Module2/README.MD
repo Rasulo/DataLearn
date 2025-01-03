@@ -4,6 +4,7 @@
 <h3>Модель данных для файлика Superstore</h3>
 За основу архитектуры БД взята модель Инмана по схеме "Звезда".
 <br/>
+<br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/Dimensional_Model_of_Superstore.png">
 <br/>
 Разработано 5 таблиц измерений:

@@ -16,6 +16,6 @@
 <br/>
 Таблица фактов состоит из ключей вышеперечисленных 5 таблиц измерений + статистических данных (прибыль, скидка и пр.).
 <br/>
-Файлик расположен здесь: https://github.com/Rasulo/DataLearn/blob/main/DE-101/Module2/create_DM_of_superstore.sql
+Файлик с DDL расположен здесь: https://github.com/Rasulo/DataLearn/blob/main/DE-101/Module2/create_DM_of_superstore.sql
 
 

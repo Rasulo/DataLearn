@@ -5,7 +5,7 @@
 За основу архитектуры БД взята модель Инмана по схеме "Звезда" (в нашем случае с источника все данные падают в нормализованную таблицу orders, которую мы разбиваем на таблицу фактов и измерений).
 <br/>
 <br/>
-<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/Dimensional_Model_of_Superstore.png" style="height:20%">
+<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/Dimensional_Model_of_Superstore.png" style="height:20%;">
 Разработано 5 таблиц измерений:
 <br/>
 <li>Calendar - содержит данные о дате заказа, доставки и колонки с разделением на год, месяц и день по дате заказа.</li>

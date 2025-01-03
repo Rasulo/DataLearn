@@ -1,5 +1,5 @@
 <h1>Модуль 2</h1>
 <h2>2.1 - 2.3</h2>
 <h2>2.4 Модели данных</h2>
-<h2>Модель данных для файлика Superstore</h2>
+<h3>Модель данных для файлика Superstore</h3>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/Dimensional_Model_of_Superstore.png">

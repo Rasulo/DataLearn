@@ -6,7 +6,6 @@
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/Dimensional_Model_of_Superstore.png">
-<br/>
 Разработано 5 таблиц измерений:
 <br/>
 <li>Calendar - содержит данные о дате заказа, доставки и колонки с разделением на год, месяц и день по дате заказа.</li>

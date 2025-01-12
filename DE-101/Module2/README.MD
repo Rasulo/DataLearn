@@ -33,9 +33,15 @@
 <li>Customer Metrics (ссылка к дашборду: https://datalens.yandex/yovo1viqcfgsk) - метрики, показывающие информацию по покупателям.</li>
 </ul>
 Скрины с дашбордов:
+<br/>
 Key Metrics:
+<br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/KeyMetrics.png">
+<br/>
 Product Metrics
+<br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/ProductMetrics.png">
+<br/>
 Customer Metrics
+<br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/CustomerMetrics.png">

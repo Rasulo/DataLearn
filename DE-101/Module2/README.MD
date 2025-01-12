@@ -28,7 +28,14 @@
 Для создания дашбордов, с целью отслеживания различных метрик, я взял сервис Yandex DataLens, который подключается к источнику всех stage и DW таблиц - Clever Cloud.
 Метрики я разделил на следующие виды:
 <ul>
-<li>Key Metrics - ключевые метрики (с таблицы фактов), которые показывают сводные данные по всем ключевым показателям.</li>
-<li>Product Metrics - метрики для демонстрации статистических показателей по различным характеристикам продукта.</li>
-<li>Customer Metrics - метрики, показывающие информацию по покупателям.</li>
+<li>Key Metrics (ссылка к дашборду: https://datalens.yandex/qgrew1z3hlh4c) - ключевые метрики (с таблицы фактов), которые показывают сводные данные по всем ключевым показателям.</li>
+<li>Product Metrics (ссылка к дашборду: https://datalens.yandex/ukvitu7vbk48g) - метрики для демонстрации статистических показателей по различным характеристикам продукта.</li>
+<li>Customer Metrics (ссылка к дашборду: https://datalens.yandex/yovo1viqcfgsk) - метрики, показывающие информацию по покупателям.</li>
 </ul>
+Скрины с дашбордов:
+Key Metrics:
+<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/KeyMetrics.png">
+Product Metrics
+<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/ProductMetrics.png">
+Customer Metrics
+<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/CustomerMetrics.png">

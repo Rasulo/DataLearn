@@ -36,13 +36,12 @@
 <br/>
 Key Metrics
 <br/>
-<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/KeyMetrics.png">
 <br/>
+<img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/KeyMetrics.png">
 Product Metrics
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/ProductMetrics.png">
-<br/>
 Customer Metrics
 <br/>
 <br/>

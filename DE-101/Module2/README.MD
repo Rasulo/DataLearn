@@ -40,8 +40,10 @@ Key Metrics
 <br/>
 Product Metrics
 <br/>
+<br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/ProductMetrics.png">
 <br/>
 Customer Metrics
+<br/>
 <br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/CustomerMetrics.png">

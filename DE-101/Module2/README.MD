@@ -32,9 +32,9 @@
 <li>Product Metrics (ссылка к дашборду: https://datalens.yandex/ukvitu7vbk48g) - метрики для демонстрации статистических показателей по различным характеристикам продукта.</li>
 <li>Customer Metrics (ссылка к дашборду: https://datalens.yandex/yovo1viqcfgsk) - метрики, показывающие информацию по покупателям.</li>
 </ul>
-Скрины с дашбордов:
+<b>Скрины с дашбордов:</b>
 <br/>
-Key Metrics:
+Key Metrics
 <br/>
 <img src="https://raw.githubusercontent.com/Rasulo/DataLearn/refs/heads/main/DE-101/Module2/KeyMetrics.png">
 <br/>
